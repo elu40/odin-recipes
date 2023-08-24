@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first Odin Project assignment to help me learn HTML and CSS.
